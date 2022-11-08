@@ -90,13 +90,12 @@ body{
 }
 
 @media screen and (max-width: 375px){
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 374px;
-    max-height: 100vh;
-    overflow: hidden;
-}
-
+    body{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 374px;
+        max-height: 100vh;
+        overflow: hidden;
+    }
 }
