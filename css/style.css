@@ -94,7 +94,9 @@ body{
         display: flex;
         align-items: center;
         justify-content: center;
-        max-width: 374px;
+        width: 375px;
+        height: auto;
+        max-width: 375px;
         max-height: 100vh;
         overflow: hidden;
     }
